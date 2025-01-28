@@ -9,7 +9,8 @@
     "pg-hstore": "^2.3.4",
     "reflect-metadata": "^0.2.2",
     "sequelize": "^6.37.5",
-    "typeorm": "^0.3.20"
+    "typeorm": "^0.3.20",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "node backend/routes/courses.js"

@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+}
+
+.course-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.course-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px;
+    width: 200px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+} 
