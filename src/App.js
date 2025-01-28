@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import SearchBar from './components/SearchBar';
 import CourseCard from './components/CourseCard';
 import axios from 'axios';
+import './App.css';
 
 function App() {
     const [courses, setCourses] = useState([]);
